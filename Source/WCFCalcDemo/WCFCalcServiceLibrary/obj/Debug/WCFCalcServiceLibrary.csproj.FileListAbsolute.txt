@@ -1,0 +1,4 @@
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcServiceLibrary\bin\Debug\WCFCalcServiceLibrary.dll
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcServiceLibrary\bin\Debug\WCFCalcServiceLibrary.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcServiceLibrary\obj\Debug\WCFCalcServiceLibrary.dll
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcServiceLibrary\obj\Debug\WCFCalcServiceLibrary.pdb

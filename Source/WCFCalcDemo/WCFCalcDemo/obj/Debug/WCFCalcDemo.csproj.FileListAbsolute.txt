@@ -1,0 +1,5 @@
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcDemo\bin\Debug\WCFCalcDemo.exe
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcDemo\bin\Debug\WCFCalcDemo.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcDemo\obj\Debug\WCFCalcDemo.exe
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcDemo\obj\Debug\WCFCalcDemo.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalcDemo\bin\Debug\WCFCalcDemo.exe.config

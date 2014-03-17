@@ -1,0 +1,14 @@
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\obj\Debug\WCFCalculatorHost.csprojResolveAssemblyReference.cache
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\bin\Debug\CalculatorHost.exe
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\bin\Debug\CalculatorHost.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\bin\Debug\WCFCalcServiceLibrary.dll
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\bin\Debug\WCFCalcServiceLibrary.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\obj\Debug\CalculatorHost.exe
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\CalculatorHost\obj\Debug\CalculatorHost.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\bin\Debug\CalculatorHost.exe
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\bin\Debug\CalculatorHost.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\bin\Debug\WCFCalcServiceLibrary.dll
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\bin\Debug\WCFCalcServiceLibrary.pdb
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\obj\Debug\WCFCalculatorHost.csprojResolveAssemblyReference.cache
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\obj\Debug\CalculatorHost.exe
+C:\VSP\VS13\WCF\WCFCalcDemo\WCFCalcDemo\WCFCalculatorHost\obj\Debug\CalculatorHost.pdb
